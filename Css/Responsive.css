@@ -1,0 +1,62 @@
+@media screen and (max-width: 1000px) {
+  /* about section start  */
+  .about-us__contant__image {
+    width: 100%;
+  }
+  .about-us__contant-text {
+    width: 100%;
+  }
+  /* about section end  */
+
+  /* skill  */
+
+  .skills__container-detail {
+    width: 95%;
+  }
+  .skills__container-text {
+    width: 95%;
+    margin-bottom: 40px;
+  }
+
+  /* skill wnd  */
+
+  /* contact  */
+
+  .contact__detail {
+    width: 95%;
+  }
+
+  .contact__form {
+    width: 95%;
+  }
+
+  /* contact end  */
+  .service_1 {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .service_2 {
+    width: 100%;
+    margin: 20px 0;
+  }
+  .service_3 {
+    width: 100%;
+    margin: 20px 0 100px 0;
+  }
+
+  .navbar {
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+  nav {
+    height: 120px;
+  }
+  .banner__content {
+    width: 100%;
+    margin: 20px;
+  }
+  .banner__image {
+    width: 100%;
+  }
+}
